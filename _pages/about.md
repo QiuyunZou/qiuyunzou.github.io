@@ -59,7 +59,7 @@ redirect_from:
 - 科技部国家重大科技专项，No: 2018ZX03001024-006， 5G国际标准候选方案评估与验证, 参与，2018.01-2020.12
 
 # 📝 Publications 
-[1]. Jiarui Zhang, Hao Xu, Chongjun Ouyang, **Qiuyun Zou**, Hongwen Yang. Uplink Sum Rate Maximization for Pinching Antenna-Assisted Multiuser MISO, ***IEEE CL***, 2025. 
+1. Jiarui Zhang, Hao Xu, Chongjun Ouyang, **Qiuyun Zou**, Hongwen Yang. Uplink Sum Rate Maximization for Pinching Antenna-Assisted Multiuser MISO, ***IEEE CL***, 2025. 
 2. **Qiuyun Zou**, Haochuan Zhang. High-dimensional MMV problem: mutual information and message passing solution, ***IEEE TSP***, 2023, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10208127).
 3. Songbin Liu, Haochuan Zhang, **Qiuyun Zou**. Decentralized channel estimation for the uplink of grant-Free massive machine-type communications, ***IEEE TCOM***, 2022.
 4. Donghong Cai, Pingzhi Fan, **Qiuyun Zou**, Yanqing Xu, Zhiguo Ding, Zhiquan Liu. Active device detection and performance analysis of massive non-orthogonal transmissions in cellular internet of things, ***Science China Information Sciences***, 2022.
