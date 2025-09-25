@@ -79,10 +79,14 @@ redirect_from:
 - *2023.06* &nbsp;&nbsp;  北京邮电大学优秀毕业生.
 - *2021.11* &nbsp;&nbsp;  博士研究生国家奖学金.
 
-# 🧠 Team
+# ⚔️ Team
 ## 本科生
 <img src="https://github.com/QiuyunZou/qiuyunzou.github.io/blob/main/images/zy.png" width="100px">
+
 曾宇，江财2023级软件工程专业本科生，曾获本科生国家奖学金
+
+
+
 
 
 
