@@ -82,7 +82,6 @@ redirect_from:
 # ⚔️ Team
 ## 本科生
 <img src="https://github.com/QiuyunZou/qiuyunzou.github.io/blob/main/images/zy.png" width="100px">
-
 曾宇，江财23级软件工程
 （曾获本科生国家奖学金）
 
