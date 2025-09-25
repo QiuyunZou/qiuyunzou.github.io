@@ -80,6 +80,6 @@ redirect_from:
 - *2021.11* &nbsp;&nbsp;  博士研究生国家奖学金.
 
 # Team
-![image](https://github.com/QiuyunZou/qiuyunzou.github.io/blob/main/images/zy.png)
+<img src="https://github.com/QiuyunZou/qiuyunzou.github.io/blob/main/images/zy.png" width="100px">
 
 
