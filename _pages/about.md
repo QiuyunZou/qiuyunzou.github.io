@@ -33,7 +33,7 @@ redirect_from:
 3. 具备基本英语语法知识，有较号阅读英文文献的能力，
 
 <div style="color: #FF5733; font-size: 16px; font-family: Arial, sans-serif;">
-  <p>  每年招收1~2名本科生，1~2名研究生，欢迎有兴趣加入本课题组的研究生和本科生与我联系。</p>
+  <p>  每年招收1~2名本科生，1~2名研究生，有兴趣加入我们团队的同学请将简历发送至我的邮箱：zouqiuyun@jxufe.edu.cn. </p>
 </div>
 
 **研究方向**：统计信号处理、无线通信、机器学习。**联系方式**：zouqiuyun@jxufe.edu.cn，（QQ）754093810。
