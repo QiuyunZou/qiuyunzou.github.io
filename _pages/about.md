@@ -59,8 +59,8 @@ redirect_from:
 - 科技部国家重大科技专项，No: 2018ZX03001024-006， 5G国际标准候选方案评估与验证, 参与，2018.01-2020.12
 
 # 📝 Publications 
-- **Qiuyun Zou** and Haochuan Zhang. A New SE analysis for Generalized Approximate message passing using Householder dice, ***Prepare to submit to IEEE***, 2025. 
-- **Qiuyun Zou** and Haochuan Zhang. Subspace-Constrained Hybrid Generalized Expectation Consistent for Massive Connectivity, ***submitted to IEEE***, 2025. 
+- **Qiuyun Zou** and Haochuan Zhang. A New SE analysis for Generalized Approximate message passing using Householder dice, ***Prepare to submit to IEEE***, 2026. 
+- **Qiuyun Zou** and Haochuan Zhang. Subspace-Constrained Hybrid Generalized Expectation Consistent for Massive Connectivity, ***IEEE TVT***, 2026. 
 - Jiarui Zhang, Hao Xu, Chongjun Ouyang, **Qiuyun Zou**, Hongwen Yang. Uplink Sum Rate Maximization for Pinching Antenna-Assisted Multiuser MISO, ***IEEE CL***, 2025. 
 - **Qiuyun Zou**, Haochuan Zhang. High-dimensional MMV problem: mutual information and message passing solution, ***IEEE TSP***, 2023, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10208127).
 - Songbin Liu, Haochuan Zhang, **Qiuyun Zou**. Decentralized channel estimation for the uplink of grant-Free massive machine-type communications, ***IEEE TCOM***, 2022.
