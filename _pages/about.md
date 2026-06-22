@@ -33,7 +33,7 @@ redirect_from:
 3. 具备基本英语语法知识，有较号阅读英文文献的能力，
 
 <div style="color: #FF5733; font-size: 16px; font-family: Arial, sans-serif;">
-  <p>  每年招收1~2名本科生，1~2名研究生，有兴趣加入我们团队的同学请将简历发送至我的邮箱：zouqiuyun@jxufe.edu.cn. </p>
+  <p>  每年招收1名软件工程专硕，1名新一代电子信息工程专硕，有兴趣加入我们团队的同学请将简历发送至我的邮箱：zouqiuyun@jxufe.edu.cn. </p>
 </div>
 
 **研究方向**：统计信号处理、无线通信、机器学习。**联系方式**：zouqiuyun@jxufe.edu.cn，（QQ）754093810。
@@ -47,9 +47,10 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 A co-author paper is accpted by IEEE Communications Letters. 
+- *2026.04*: &nbsp;🎉🎉 A paper is accepted by IEEE Transactions on Vehicle Technology.
+- *2025.09*: &nbsp;🎉🎉 A co-author paper is accepted by IEEE Communications Letters. 
 - *2025.08*: &nbsp;🎉🎉 获批江西省自然科学基金青年基金项目. 
-- *2024.08*: &nbsp;🎉🎉 获批国家自然科学基金青年基金项目.
+
 
 # 🍀 Projects
 - 江西省自然科学基金青年科学基金项目，20252BAC200173，面向大规模非线性推断的贝叶斯近似算法研究，2026.01-2028.12，主持
@@ -59,21 +60,22 @@ redirect_from:
 - 科技部国家重大科技专项，No: 2018ZX03001024-006， 5G国际标准候选方案评估与验证, 参与，2018.01-2020.12
 
 # 📝 Publications 
-1. **Qiuyun Zou** and Haochuan Zhang. A New SE analysis for Generalized Approximate message passing using Householder dice, ***Prepare to submit to IEEE***, 2026. 
-2. **Qiuyun Zou** and Haochuan Zhang. Subspace-Constrained Hybrid Generalized Expectation Consistent for Massive Connectivity, ***IEEE TVT***, 2026. 
-3. Jiarui Zhang, Hao Xu, Chongjun Ouyang, **Qiuyun Zou**, Hongwen Yang. Uplink Sum Rate Maximization for Pinching Antenna-Assisted Multiuser MISO, ***IEEE CL***, 2025. 
-4. **Qiuyun Zou**, Haochuan Zhang. High-dimensional MMV problem: mutual information and message passing solution, ***IEEE TSP***, 2023, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10208127).
-5. Songbin Liu, Haochuan Zhang, **Qiuyun Zou**. Decentralized channel estimation for the uplink of grant-Free massive machine-type communications, ***IEEE TCOM***, 2022.
+1. **Qiuyun Zou** and Haochuan Zhang. A New SE analysis for Generalized Approximate message passing using Householder dice, **Submited to IEEE***, 2026. 
+2. **Qiuyun Zou** and Haochuan Zhang. Subspace-Constrained Hybrid Generalized Expectation Consistent for Massive Connectivity, ***IEEE Transactions on Vehicular Technology***, 2026. 
+3. Jiarui Zhang, Hao Xu, Chongjun Ouyang, **Qiuyun Zou**, Hongwen Yang. Uplink Sum Rate Maximization for Pinching Antenna-Assisted Multiuser MISO, ***IEEE Communications Letters***, 2025. 
+4. **Qiuyun Zou**, Haochuan Zhang. High-dimensional MMV problem: mutual information and message passing solution, ***IEEE Transactions on Signal Processing***, 2023, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10208127).
+5. Songbin Liu, Haochuan Zhang, **Qiuyun Zou**. Decentralized channel estimation for the uplink of grant-Free massive machine-type communications, ***IEEE Transactions on Communications***, 2022.
 6. Donghong Cai, Pingzhi Fan, **Qiuyun Zou**, Yanqing Xu, Zhiguo Ding, Zhiquan Liu. Active device detection and performance analysis of massive non-orthogonal transmissions in cellular internet of things, ***Science China Information Sciences***, 2022.
-7. Pei Yang, **Qiuyun Zou**, Hongwen Yang. Message passing based calculation of MI and MMSE matrix for massive MIMO systems with finite-alphabet inputs, ***IEEE CL***, 2021.
+7. Pei Yang, **Qiuyun Zou**, Hongwen Yang. Message passing based calculation of MI and MMSE matrix for massive MIMO systems with finite-alphabet inputs, ***IEEE Communications Letters***, 2021.
 8. **Qiuyun Zou** and Hongwen Yang. A concise tutorial on approximate message passing. arXiv preprint arXiv:2201.07487, 2022, [[PDF]](https://arxiv.org/pdf/2201.07487).
-9. **Qiuyun Zou**, Haochuan Zhang, Hongwen Yang. Multi-layer bilinear generalized approximate message passing, ***IEEE TSP***, 2021, [[PDF]](https://ieeexplore.ieee.org/abstract/document/9497749).
-10. **Qiuyun Zou**, Haochuang Zhang, Hongwen Yang. Expectation maximization aided hybrid generalized expectation consistent for sparse signal reconstruction, ***IEEE SPL***, 2021, [[PDF]](https://ieeexplore.ieee.org/abstract/document/9376245).
-11. **Qiuyun Zou**, Haochuan Zhang, Donghong Cai, Hongwen Yang. A low-complexity joint user activity, channel and data estimation for grant-free massive MIMO systems, ***IEEE SPL***, 2020, [[PDF]](https://ieeexplore.ieee.org/abstract/document/9138688).
-12. **Qiuyun Zou**, Haochuan Zhang, Donghong Cai, Hongwen Yang. Message passing based joint channel and user activity estimation for uplink grant-Free massive MIMO systems with low-precision ADCs, ***IEEE SPL***, 2020, [[PDF]](https://ieeexplore.ieee.org/abstract/document/9028221).
+9. **Qiuyun Zou**, Haochuan Zhang, Hongwen Yang. Multi-layer bilinear generalized approximate message passing, ***IEEE Transactions on Signal Processing***, 2021, [[PDF]](https://ieeexplore.ieee.org/abstract/document/9497749).
+10. **Qiuyun Zou**, Haochuang Zhang, Hongwen Yang. Expectation maximization aided hybrid generalized expectation consistent for sparse signal reconstruction, ***IEEE Signal Processing Letters***, 2021, [[PDF]](https://ieeexplore.ieee.org/abstract/document/9376245).
+11. **Qiuyun Zou**, Haochuan Zhang, Donghong Cai, Hongwen Yang. A low-complexity joint user activity, channel and data estimation for grant-free massive MIMO systems, ***IEEE Signal Processing Letters***, 2020, [[PDF]](https://ieeexplore.ieee.org/abstract/document/9138688).
+12. **Qiuyun Zou**, Haochuan Zhang, Donghong Cai, Hongwen Yang. Message passing based joint channel and user activity estimation for uplink grant-Free massive MIMO systems with low-precision ADCs, ***IEEE Signal Processing Letters***, 2020, [[PDF]](https://ieeexplore.ieee.org/abstract/document/9028221).
 13. **Qiuyun Zou** Haochuan Zhang, and Hongwen Yang. Estimation for high-Dimensional multi-layer generalized linear model–Part I: the exact MMSE estimator. arXiv preprint arXiv:2007.09826, 2020.
 14. **Qiuyun Zou** Haochuan Zhang, and Hongwen Yang.  Estimation for high-dimensional multi-Layer generalized linear model–part II: the ML-GAMP estimator. arXiv preprint arXiv:2007.09827, 2020.
-15. **Qiuyun Zou**，Haochuan Zhang, Chao-Kai Wen, Shi Jin, Rong Yu. Concise derivation for generalized approximate message passing using expectation propagation, ***IEEE SPL***, 2018, [[PDF]](https://ieeexplore.ieee.org/abstract/document/8496782).
+15. **Qiuyun Zou**，Haochuan Zhang, Chao-Kai Wen, Shi Jin, Rong Yu. Concise derivation for generalized approximate message passing using expectation propagation, ***IEEE Signal Processing Letters***, 2018, [[PDF]](https://ieeexplore.ieee.org/abstract/document/8496782).
+
 
 # 🎖 Honors and Awards
 - *2024.06* &nbsp;&nbsp;  指导本科生李雪获江西财经大学优秀本科毕业设计. 
@@ -81,6 +83,7 @@ redirect_from:
 - *2023.06* &nbsp;&nbsp;  北京邮电大学优秀毕业生.
 - *2021.11* &nbsp;&nbsp;  博士研究生国家奖学金.
 - *2021.07* &nbsp;&nbsp;  CSC奖学金-东京大学联合培养博士研究生
+
 
 # ⚔️ Team
 1. 曾宇，江西财经大学2023级软件工程专业本科生，曾获本科生国家奖学金。
