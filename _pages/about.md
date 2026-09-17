@@ -59,7 +59,7 @@ redirect_from:
 - 江西省自然科学基金面上项目，20262BAC240014，2027.01-2029.12，主持
 - 北京邮电大学博士创新基金，No: CX2020107，2020.4-2022.3, 主持
 - 国家自然科学基金地区基金项目，No: 62566025，2026.01-2029.12，参与
-- 科技部国家重大科技专项，No: 2018ZX03001024-006， 5G国际标准候选方案评估与验证, 参与，2018.01-2020.12
+- 科技部国家重大科技专项，No: 2018ZX03001024-006， 5G国际标准候选方案评估与验证, 2018.01-2020.12，参与
 
 # 📝 Publications 
 1. **Qiuyun Zou** and Haochuan Zhang. State evolution analysis of GAMP for multiple measurement vector problem, ***Submited to IEEE***, 2026. 
